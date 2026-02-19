@@ -1,5 +1,7 @@
 # Willkommen zum Github-Repository des KB-EAA
 
+Hier finden Sie Informationen zum Knowledge Badge EAA, das vom [DACH-Verband](https://iaap-dach.org) herausgegeben wird.
+
 ## Syllabus
 
 - KB-EAA Syllabus 1.1: [PDF](https://github.com/zimmermanng/KB-EAA/blob/3844b3bd7a8cb1927e4fb3a308f86bbe3d0bdb20/Syllabus/Syllabus-KB-EAA.V1.1.pdf), [Word-Format](https://github.com/zimmermanng/KB-EAA/blob/3844b3bd7a8cb1927e4fb3a308f86bbe3d0bdb20/Syllabus/Syllabus-KB-EAA.V1.1.docx)
