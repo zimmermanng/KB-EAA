@@ -10,4 +10,4 @@ Hier finden Sie Informationen zum Knowledge Badge EAA, das vom [DACH-Verband](ht
 
 Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
 -	Freitag 26.06.2026 um 14-15 Uhr in Stuttgart (HdM), [Anmeldung bei Jenna Kottmann](mailto:jk266@hdm-stuttgart.de)
--	Freitag 03.07.2026 um 14-15 Uhr in München (Pfennigparade), [Anmeldung bei Michael Düren](michael.dueren@pfennigparade.de)
+-	Freitag 03.07.2026 um 14-15 Uhr in München (Pfennigparade), [Anmeldung bei Michael Düren](mailto:michael.dueren@pfennigparade.de)
