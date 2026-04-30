@@ -4,9 +4,7 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 **Hinweis:** Nicht öffentliche und vertrauliche Unterlagen (bspw. die Prüfungsfragen) sind nicht in diesem GitHub-Projekt enthalten, sondern an einem separaten, geschützten Ablageort hinterlegt.
 
-## Informationen und Anmeldung zur 4. Prüfungsrunde: Juni-Juli 2026
-
-# 1. Prüfungsrunde im Sommer 2026
+## Informationen und Anmeldung zur 1. Prüfungsrunde im Sommer 2026
 
 Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
 - Freitag 26.06.2026 um 14-15 Uhr in Stuttgart (HdM)
