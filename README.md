@@ -6,18 +6,15 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 ## Informationen und Anmeldung zur 4. Prüfungsrunde: Juni-Juli 2026
 
-Prüfungstermine und -orte:
-- FH Technikum Wien: Mi 10.06.2026 um 10.00 Uhr 
-- Uni Siegen, Do 18.06.26 um 15.00 Uhr in Raum US-F-104, Kohlbettstr. 15, 57072 Siegen --> (Update dieses Eintrags am 09.04.2026)
-- atos Köln, Do 18.06.26 um 11.00 Uhr: Atos Information Technology GmbH, Von-der-Wettern-Straße 27, 51149 Köln
-- FH Technikum Wien: Do 25.06.2026 um 15.00 Uhr
-- HFC Berlin: Fr 26.06.2026 um 14.00 Uhr
-- ETH Zürich: Do 02.07.2026 um 10.00 Uhr, [Raum HG E 21, Rämistrasse 101, Zürich](https://ethz.ch/content/dam/ethz/associates/services/Service/raeume-und-gebaeude/rektoratsraeume/files/foyerhguebersichtsplaene/%C3%9Cbersichtsplan_HG_%20E-Stock.pdf)
-- Videbis Wien: Do 16.07.2026 um 14.00 Uhr, Schlosshofer Straße 6, 1210 Wien
-- Nürnberg: Fr 17.07.2026 um 14:00 Uhr
-- Stuttgart: Fr 24.07.2026 um 14.00 Uhr
-- TU Chemnitz: Mi 29.07.2026 um 13.00 Uhr
-- atos Poland (tbd)
+# 1. Prüfungsrunde im Sommer 2026
+
+Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
+- Freitag 26.06.2026 um 14-15 Uhr in Stuttgart (HdM)
+- Freitag 03.07.2026 um 14-15 Uhr in München (Pfennigparade)
+
+Bitte melden Sie sich über unser Anmeldeformular (Link kommt noch) an.
+
+Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 100€ für IAAP-Mitglieder bzw. 200€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
 
 ## Weitere Informationen 
 
