@@ -7,6 +7,7 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 ## Informationen und Anmeldung zur 1. Prüfungsrunde im Sommer 2026
 
 Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
+- Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
 - Freitag 26.06.2026 um 14-15 Uhr in Stuttgart (HdM)
 - Freitag 03.07.2026 um 14-15 Uhr in München (Pfennigparade)
 
