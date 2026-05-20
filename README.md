@@ -10,6 +10,7 @@ Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
 - Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
 - Stuttgart, HdM: Fr 26.06.2026 um 14-15 Uhr 
 - München, Pfennigparade: Fr 03.07.2026 um 14-15 Uhr
+- Siegen, Universität: Do 23.07.2026 um 15.00 Uhr
 
 [Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/241125?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
 
