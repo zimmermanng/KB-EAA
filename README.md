@@ -7,10 +7,12 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 ## Informationen und Anmeldung zur 1. Prüfungsrunde im Sommer 2026
 
 Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
-- Freitag 26.06.2026 um 14-15 Uhr in Stuttgart (HdM)
-- Freitag 03.07.2026 um 14-15 Uhr in München (Pfennigparade)
+- Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
+- Stuttgart, HdM: Fr 26.06.2026 um 14-15 Uhr 
+- München, Pfennigparade: Fr 03.07.2026 um 14-15 Uhr
+- Siegen, Universität: Do 23.07.2026 um 15.00 Uhr
 
-[Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/992574?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
+[Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/241125?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
 
 Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 100€ für IAAP-Mitglieder bzw. 200€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
 
