@@ -4,15 +4,12 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 **Hinweis:** Nicht öffentliche und vertrauliche Unterlagen (bspw. die Prüfungsfragen) sind nicht in diesem GitHub-Projekt enthalten, sondern an einem separaten, geschützten Ablageort hinterlegt.
 
-## Informationen und Anmeldung zur 1. Prüfungsrunde im Sommer 2026
+## Informationen und Anmeldung zur nächsten Prüfungsrunde
 
-Die 1. Prüfungsrunde findet im Juni/Juli 2026 wie folgt statt:
-- Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
-- Stuttgart, HdM: Fr 26.06.2026 um 14-15 Uhr 
-- München, Pfennigparade: Fr 03.07.2026 um 14-15 Uhr
-- Siegen, Universität: Do 23.07.2026 um 15.00 Uhr
+- Die 2. Prüfungsrunde wird voraussichtlich im Jan/Februar 2027 stattfinden.
+- Die 3. Prüfungsrunde dann im September/Oktober 2027.
 
-[Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/241125?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
+Genaue Prüfungstermine und -orte werden hier und durch IAAP-DACH bekanntgegeben.
 
 Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 100€ für IAAP-Mitglieder bzw. 200€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
 
