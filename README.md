@@ -15,4 +15,4 @@ Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 10
 
 ## Weitere Informationen 
 
-Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden Sie im [KB-BFL Wiki](../../wiki)
+Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden Sie im [KB-EAA Wiki](../../wiki)
