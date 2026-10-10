@@ -13,6 +13,10 @@ Genaue Prüfungstermine und -orte werden hier und durch IAAP-DACH bekanntgegeben
 
 Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 100€ für IAAP-Mitglieder bzw. 200€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
 
+# Informationen zu vergangenen Prüfungsrunden
+
+- [1. Prüfungsrunde: Jun/Jul 2026](https://github.com/zimmermanng/KB-EAA/wiki/erste-pruefungsrunde-jun-jul-2026)
+
 ## Weitere Informationen 
 
 Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden Sie im [KB-EAA Wiki](../../wiki)
