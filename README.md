@@ -6,7 +6,7 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 ## Informationen und Anmeldung zur nächsten Prüfungsrunde
 
-- Die 2. Prüfungsrunde wird voraussichtlich im Jan/Februar 2027 stattfinden.
+- Die 2. Prüfungsrunde wird voraussichtlich im Februar/März 2027 stattfinden.
 - Die 3. Prüfungsrunde dann im September/Oktober 2027.
 
 Genaue Prüfungstermine und -orte werden hier und durch IAAP-DACH bekanntgegeben.
